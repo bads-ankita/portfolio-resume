@@ -1,3 +1,4 @@
-Streamlit
-streamlit_lottie
-Image
+streamlit==0.88.0
+requests==2.26.0
+streamlit-lottie==0.0.3
+Pillow==9.0.1
